@@ -1,3 +1,5 @@
+'use server'
+
 import { css } from '@styled-system/css'
 import { ItemTable } from 'components/ItemTable'
 
